@@ -6,4 +6,5 @@ update by dev
 update by test
 update by remote
 update by remote
+edit by remote
 edit by local
